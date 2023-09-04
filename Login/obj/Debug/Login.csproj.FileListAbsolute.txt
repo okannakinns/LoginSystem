@@ -1,0 +1,32 @@
+C:\Users\oknak\source\repos\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\oknak\source\repos\Login\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\oknak\source\repos\Login\Login\obj\Debug\Login.FrmGirisYap.resources
+C:\Users\oknak\source\repos\Login\Login\obj\Debug\Login.FrmKaydol.resources
+C:\Users\oknak\source\repos\Login\Login\obj\Debug\Login.FrmSifremiUnuttum.resources
+C:\Users\oknak\source\repos\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\oknak\source\repos\Login\Login\obj\Debug\Login.FrmSifreDegis.resources
+C:\Users\oknak\source\repos\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\oknak\source\repos\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\oknak\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\oknak\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\oknak\source\repos\Login\Login\bin\Debug\Login.pdb
+C:\Users\oknak\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\oknak\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\oknak\source\repos\Login\Login\obj\Debug\Login.AdminPanel.resources
+C:\Users\oknak\source\repos\Login\Login\obj\Debug\Login.FrmIletisim.resources
+D:\VS DOSYALARI\Login\Login\bin\Debug\Login.exe.config
+D:\VS DOSYALARI\Login\Login\bin\Debug\Login.exe
+D:\VS DOSYALARI\Login\Login\bin\Debug\Login.pdb
+D:\VS DOSYALARI\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\VS DOSYALARI\Login\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+D:\VS DOSYALARI\Login\Login\obj\Debug\Login.AdminPanel.resources
+D:\VS DOSYALARI\Login\Login\obj\Debug\Login.FrmGirisYap.resources
+D:\VS DOSYALARI\Login\Login\obj\Debug\Login.FrmIletisim.resources
+D:\VS DOSYALARI\Login\Login\obj\Debug\Login.FrmKaydol.resources
+D:\VS DOSYALARI\Login\Login\obj\Debug\Login.FrmSifremiUnuttum.resources
+D:\VS DOSYALARI\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\VS DOSYALARI\Login\Login\obj\Debug\Login.FrmSifreDegis.resources
+D:\VS DOSYALARI\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\VS DOSYALARI\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\VS DOSYALARI\Login\Login\obj\Debug\Login.exe
+D:\VS DOSYALARI\Login\Login\obj\Debug\Login.pdb

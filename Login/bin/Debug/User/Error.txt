@@ -1,0 +1,7 @@
+Hata Tarihi: 19.06.2023 11:59:08
+Hata Mesajı: SMTP sunucusu güvenli bir bağlantı gerektiriyor veya istemcinin kimliği doğrulanmadı. Sunucu yanıtı şöyleydi: 5.7.0 Authentication Required. Learn more at
+Stack Trace:    konum: System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   konum: System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   konum: System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   konum: System.Net.Mail.SmtpClient.Send(MailMessage message)
+   konum: Login.FrmSifremiUnuttum.chkKodGonder_CheckedChanged(Object sender, EventArgs e) C:\Users\oknak\source\repos\Login\Login\FrmSifremiUnuttum.cs içinde: satır 72
